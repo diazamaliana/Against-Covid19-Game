@@ -8,5 +8,5 @@ RESOURCES IMAGES and SOUND=
       2. Innersloth (Among Us Character)
       
 # Demo 
- ![Gambar1](https://dribbble.com/shots/14369718-UI-Against-Covid19-Game/attachments/6038457?mode=media)
+ ![Gambar1](https://cdn.dribbble.com/users/6109512/screenshots/14369718/media/02906b72c6491f5f687d8307ee8aa851.png)
  https://www.greenfoot.org/scenarios/26542
