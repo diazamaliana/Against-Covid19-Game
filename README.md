@@ -7,4 +7,6 @@ RESOURCES IMAGES and SOUND=
       1. http://www.orangefreesounds.com/ (Stock audio - Free sound effects, loops and music) 
       2. Innersloth (Among Us Character)
       
-Demo : https://www.greenfoot.org/scenarios/26542
+# Demo 
+ ![Gambar1](https://dribbble.com/shots/14369718-UI-Against-Covid19-Game/attachments/6038457?mode=media)
+ https://www.greenfoot.org/scenarios/26542
